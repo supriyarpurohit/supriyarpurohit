@@ -8,7 +8,7 @@ I am Supriya Purohit. My main interest lies in Web Development and Automation. I
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Automation Project
 - 🌱 I’m currently learning Web Development
