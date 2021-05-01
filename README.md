@@ -1,4 +1,4 @@
-<h1><b><marquee>Supriya Purohit </marquee><b></h1>
+<h1 style="color:green"><b><marquee>Supriya Purohit </marquee><b></h1>
 
 [![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/supriyarakeshpurohit/)&nbsp;&nbsp;&nbsp;&nbsp;
 [![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:supriyarpurohit@gmail.com)
