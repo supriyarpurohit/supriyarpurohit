@@ -1,6 +1,6 @@
 <h1><b> Supriya Purohit <b></h1>
 
-<a href="https://www.linkedin.com/in/supriyarakeshpurohit/" ><img src="" ></a>
+<a href="https://www.linkedin.com/in/supriyarakeshpurohit/" ><img src="D:/OIP" ></a>
 ### Hi there 👋
 
 
