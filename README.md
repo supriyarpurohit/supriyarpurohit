@@ -1,6 +1,6 @@
 <h1><b> Supriya Purohit <b></h1>
 
-<a href="https://www.linkedin.com/in/supriyarakeshpurohit/" ><img src="D:/OIP" ></a>
+<a href="https://www.linkedin.com/in/supriyarakeshpurohit/" ><img src="https://www.bing.com/images/search?view=detailV2&ccid=ZUMur2qr&id=B0A570D19B0044504D9044DD742385FA828DC080&thid=OIP.ZUMur2qrBt2AxyAEPSU-1wAAAA&mediaurl=https%3a%2f%2fabovethelaw.com%2fwp-content%2fuploads%2f2016%2f01%2flinkedin-logo-300x300.png&exph=300&expw=300&q=linkedin+logo&simid=607991297025532139&ck=D14DC0171AE5044E142FF6C96F25B6CA&selectedIndex=13&FORM=IRPRST" ></a>
 ### Hi there 👋
 
 
