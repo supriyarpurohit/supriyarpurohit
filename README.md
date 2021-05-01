@@ -4,6 +4,8 @@
 [![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:supriyarpurohit@gmail.com)
 ### Hi there 👋
 
+I am Supriya Purohit. My main interest lies in Web Development and Automation. I also have basic knowledge of Data Science. I am always curious to learn something new.
+
 
 
 Here are some ideas to get you started:
