@@ -4,14 +4,14 @@
 [![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:supriyarpurohit@gmail.com)
 ### Hi there 👋
 
-I am Supriya Purohit. My main interest lies in Web Development and Automation. I also have basic knowledge of Data Science. I am always curious to learn something new.
+I am Supriya Purohit. My main interest lies in Web & Business Development and Automation. I also have basic knowledge of Data Science. I am always curious to learn something new.
 
 
 
 
 
 - 🔭 I’m currently working on Automation Project
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Business Development
 - 👯 I’m looking to collaborate on Technology related to Blockchain
 - 🤔 I’m looking for help with Cloud Computing
 - 💬 Ask me about WEb Designing and Automation
