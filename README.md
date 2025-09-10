@@ -1,7 +1,6 @@
 <h1 style="color:green"><b><marquee>Supriya Purohit </marquee><b></h1>
 
 [![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/supriyapurohit27/)&nbsp;&nbsp;&nbsp;&nbsp;
-[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:supriyarpurohit@gmail.com)
 ### Hi there 👋
 
 I am Supriya Purohit. My main interest lies in Web & Business Development and Automation. I also have basic knowledge of Data Science. I am always curious to learn something new.
